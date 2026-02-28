@@ -1,0 +1,180 @@
+{
+  "data.Cards": {
+    "Card": "Death",
+    "Directory": "D:\\data\\cards\\Standard\\Cards",
+    "Assets": {
+      "UprightImage": "CARD_Death_Upright.png",
+      "ReversedImage": "CARD_Death_Reversed.png"
+    },
+    "Prompts": {
+      "UprightImage": {
+        "Positive": "Describe the imagery and symbolism of the Death card in an upright position.",
+        "Negative": "Describe the imagery and symbolism of the Death card in a reversed position."
+      },
+      "ReversedImage": {
+        "Positive": "Describe the imagery and symbolism of the Death card in an reversed position.",
+        "Negative": "Describe the imagery and symbolism of the Death card in a upright position."
+      }
+    },
+    "records": [
+      {
+        "Orientation": "upright",
+        "Description": "This card signifies a burgeoning opportunity related to material resources, finances, or career beginnings. It suggests a foundation being laid for stability and prosperity, but with a need for careful nurturing and grounded action. The path forward requires patience and a practical approach, focusing on building something solid from the ground up.  It speaks to potential and the power to manifest abundance through diligent effort.",
+        "Meanings": [],
+        "Keywords": [
+          "opportunity, foundation, prosperity, practicality, growth, potential, stability, manifestation"
+        ],
+        "Advice": "Invest time and effort wisely in building a secure future. Focus on practical steps and responsible financial management to realize your potential.",
+        "Affirmation": "I am building a strong foundation.\nI attract abundance and prosperity.\nMy efforts yield fruitful results.",
+        "Category": [],
+        "Assets": {
+          "Image": "IMG_Death_upright.png",
+          "CardImage": "CARDIMG_Death_upright.png",
+          "Narration": "NARRATION_Death_upright.mp3",
+          "Music": "MUSIC_Death_upright.mp3",
+          "Movie": "FOCUS_Death_upright.mpeg",
+          "PalletImage": "PALLETEIMG_Death_upright.png",
+          "Object": "MODEL_Death_upright.obj"
+        },
+        "Prompts": {
+          "Image": {
+            "Positive": "Describe the imagery and symbolism of the Death card in an upright position.",
+            "Negative": "Describe the imagery and symbolism of the Death card in a reversed position."
+          },
+          "Narration": {
+            "Voice": "Mature Male",
+            "Tone": "Stern and Inevitable",
+            "Pace": "Moderate",
+            "Volume": "Medium",
+            "Emphasis": "Highlight the imposing presence of Hades, the transformation he represents, and the fallen crowned king as a symbol of change or loss.",
+            "De-emphasis": "Avoid over-emphasizing the fear aspect of Hades. Instead, focus on the inevitable nature of his transformation.",
+            "Style": "Narrate in a storytelling manner, engaging the listener with vivid descriptions.",
+            "Content": "Focus on the symbolism and meaning of the Death card in an upright position."
+          },
+          "Music": {
+            "Positive": "Select or describe music that would complement the Death card in an upright position.",
+            "Negative": "Select or describe music that would complement the Death card in a reversed position."
+          },
+          "CharacterImage": {
+            "CharacterName": "Hades",
+            "Positive": "Photorealistic Hades unavoidable transformation, imposing helm shadowed king black plate Cerberus leash armored white horse black white rose banner fallen crowned king river dawn, stern inexorable face mist souls rising detailed armor rivets mist horse mane 8k TarotSpreadsheet2.xlsx​",
+            "Negative": "jovial colorful mortal smiling sunlit no horse cartoon banner blurry souls"
+          }
+        }
+      },
+      {
+        "Orientation": "reversed",
+        "Description": "This card signifies a burgeoning opportunity related to material resources, finances, or career beginnings. It suggests a foundation being laid for stability and prosperity, but with a need for careful nurturing and grounded action. The path forward requires patience and a practical approach, focusing on building something solid from the ground up.  It speaks to potential and the power to manifest abundance through diligent effort.",
+        "Meanings": [],
+        "Keywords": [
+          "opportunity, foundation, prosperity, practicality, growth, potential, stability, manifestation"
+        ],
+        "Advice": "Invest time and effort wisely in building a secure future. Focus on practical steps and responsible financial management to realize your potential.",
+        "Affirmation": "I am building a strong foundation.\nI attract abundance and prosperity.\nMy efforts yield fruitful results.",
+        "Category": [],
+        "Assets": {
+          "Image": "IMG_Death_reversed.png",
+          "CardImage": "CARDIMG_Death_reversed.png",
+          "Narration": "NARRATION_Death_reversed.mp3",
+          "Music": "MUSIC_Death_reversed.mp3",
+          "Movie": "FOCUS_Death_reversed.mpeg",
+          "PalletImage": "PALLETEIMG_Death_reversed.png",
+          "Object": "MODEL_Death_reversed.obj"
+        },
+        "Prompts": {
+          "Image": {
+            "Positive": "Describe the imagery and symbolism of the Death card in an reversed position.",
+            "Negative": "Describe the imagery and symbolism of the Death card in a upright position."
+          },
+          "Narration": {
+            "Voice": "Mature Female",
+            "Tone": "Somber and reflective",
+            "Pace": "Slow",
+            "Volume": "Medium",
+            "Emphasis": "Highlight the eternal exile, the haggard cursed nomad, and the barren tree symbolizing a sense of desolation and longing.",
+            "De-emphasis": "Avoid over-emphasising the storm or grime as they are more symbolic representations of the character's journey rather than central themes.",
+            "Style": "Narrate in a storytelling manner, engaging the listener with vivid descriptions.",
+            "Content": "Focus on the symbolism and meaning of the Death card in an reversed position."
+          },
+          "Music": {
+            "Positive": "Select or describe music that would complement the Death card in an reversed position.",
+            "Negative": "Select or describe music that would complement the Death card in a upright position."
+          },
+          "CharacterImage": {
+            "CharacterName": "Wandering Jew legend",
+            "Positive": "Photorealistic Wandering Jew clinging life, haggard cursed nomad medieval tatters haunted weary eyes clutching barren tree eternal exile city walls barred, perpetual storm detailed eternal grime tears cloth patches face lines 8k TarotSpreadsheet2.xlsx​",
+            "Negative": "settled content modern happy calm home no curse cartoon wanderer low res"
+          }
+        }
+      },
+      {
+        "Orientation": "between",
+        "Description": "This card signifies a burgeoning opportunity related to material resources, finances, or career beginnings. It suggests a foundation being laid for stability and prosperity, but with a need for careful nurturing and grounded action. The path forward requires patience and a practical approach, focusing on building something solid from the ground up.  It speaks to potential and the power to manifest abundance through diligent effort.",
+        "Meanings": [],
+        "Keywords": [
+          "opportunity, foundation, prosperity, practicality, growth, potential, stability, manifestation"
+        ],
+        "Advice": "Invest time and effort wisely in building a secure future. Focus on practical steps and responsible financial management to realize your potential.",
+        "Affirmation": "I am building a strong foundation.\nI attract abundance and prosperity.\nMy efforts yield fruitful results.",
+        "Category": [],
+        "Assets": {
+          "Image": "IMG_Death_between.png",
+          "CardImage": "CARDIMG_Death_between.png",
+          "Narration": "NARRATION_Death_between.mp3",
+          "Music": "MUSIC_Death_between.mp3",
+          "Movie": "FOCUS_Death_between.mpeg",
+          "PalletImage": "PALLETEIMG_Death_between.png",
+          "Object": "MODEL_Death_between.obj"
+        },
+        "Prompts": {
+          "Image": {
+            "Positive": "Describe the imagery and symbolism of the Death card in an between position.",
+            "Negative": "Describe the imagery and symbolism of the Death card in a upright and reversed position."
+          },
+          "Narration": {
+            "Voice": "Mature Female",
+            "Tone": "Cyclical and Transformative",
+            "Pace": "Moderate",
+            "Volume": "Medium",
+            "Emphasis": "Highlight the cyclical nature of Persephone's journey between the underworld and spring, emphasizing the bittersweet yet hopeful transition from endings to beginnings.",
+            "De-emphasis": "Avoid over-emphasizing fear or dread associated with death, instead focus on the renewal and transformation it symbolizes.",
+            "Style": "Narrate in a storytelling manner, engaging the listener with vivid descriptions.",
+            "Content": "Focus on the symbolism and meaning of the Death card in an between position."
+          },
+          "Music": {
+            "Positive": "Select or describe music that would complement the Death card in an between position.",
+            "Negative": "Select or describe music that would complement the Death card in a upright and reversed position."
+          },
+          "CharacterImage": {
+            "CharacterName": "Persephone",
+            "Positive": "Photorealistic Persephone cyclical endings beginnings, youthful queen pomegranate seeds black chiton rising underworld stairs seasonal flowers wilt bloom, bittersweet pensive face torchlight cave mouth spring light detailed seeds petals gown folds 8k TarotSpreadsheet2.xlsx​",
+            "Negative": "permanent trapped angry barren no seeds harsh winter cartoon flowers deformed"
+          }
+        }
+      }
+    ]
+  },
+  "data.Name": "Standard",
+  "data.Version": 0.3,
+  "data.Geometries": {
+    "Title": {
+      "Font": "",
+      "Height": 18,
+      "Width": 660
+    },
+    "Body": {
+      "Font": "",
+      "Height": 660,
+      "Width": 1060
+    },
+    "Size": {
+      "Height": 680,
+      "Width": 1100
+    },
+    "Images": {
+      "Height": 300,
+      "Width": 300
+    }
+  },
+  "data.Assets.Directory": "D:\\data\\cards\\Standard"
+}
